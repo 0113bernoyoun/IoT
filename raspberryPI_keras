@@ -1,0 +1,12 @@
+install and troubleShooting
+
+라즈베리파이 케라스 설치->모델 불러오기 에러 해결 
+opencv 설치
+https://webnautes.tistory.com/916
+tensorflow 설치
+https://m.blog.naver.com/PostView.nhn?blogId=chandong83&logNo=221334936927&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+permission 에러
+https://github.com/googlesamples/assistant-sdk-python/issues/236
+libhdf5에러
+https://github.com/keras-team/keras/issues/6176
+https://stackoverflow.com/questions/48965309/h5py-import-error-on-libhdf5-serial-so-100?rq=1
